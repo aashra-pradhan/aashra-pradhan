@@ -76,12 +76,9 @@
 
 <!-- $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/aashra-pradhan-96b8b4247/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.linkedin.com/in/aashra-pradhan-96b8b4247/" target="blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
   <a href="https://www.linkedin.com/in/aashra-pradhan-96b8b4247/" target="blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -107,7 +104,7 @@
 </div>
 </h1>
 <img
-  src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,tailwind,js,react,nodejs,expressjs,mongodb,php,mysql,c,java,figma"
+  src="https://skillicons.dev/icons?i=git,github,c,java,php,mysql,figma,html,css,bootstrap,tailwind,js,mongodb,expressjs,react,nodejs,postman"
 />
 
 <!-- # $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $ -->
