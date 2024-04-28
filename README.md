@@ -16,7 +16,7 @@
 
 <h1 align="center">
   <img
-      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=450&lines=Aashra+Pradhan;"
+      src="https://readme-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=450&lines=Aashra+Pradhan;"
       alt="Aashra Pradhan"
   />
   <br/>
