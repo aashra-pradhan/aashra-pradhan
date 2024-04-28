@@ -46,10 +46,11 @@
     />
   </div>
 </h1>
+<h1 align="center" >
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Coding
 </div>
-
+</h1>
 <br/>
 
 <img
@@ -57,8 +58,8 @@
   alt="Profile Views"
 />
 
-- 🌱 I'm currently learning **Vite + React.**
-- 👨🏿‍💻All of my projects are available at [www.aashrapradhan.com.np](www.aashrapradhan.com.np)
+- 👨🏿‍💻All of my projects are available at [www.github.com/aashra-pradhan](www.github.com/aashra-pradhan)
+- Portfolio at [www.aashrapradhan.com.np](www.aashrapradhan.com.np)
 - 📫 How to reach me **aashrapradhan68@gmail.com**
 
 <!-- # $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $ -->
@@ -66,11 +67,11 @@
 <!-- $\mathfrak{{\color{#9f4bff}Connect \space \color{#ffffff} with \space \color{#9f4bff} me:}}\ $ -->
 
 <!-- # Connect with me: -->
-
+<h1 align="center" >
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Connect With Me
 </div>
-
+</h1>
 <!-- $${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
 
 $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
@@ -93,10 +94,12 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 <!-- # $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
 <!-- # Languages and Tools: -->
+<h1 align="center" >
+
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Languages And Tools
 </div>
-
+</h1>
 <img
   src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,tailwind,js,react,nodejs,expressjs,mongodb,php,mysql,c,java,figma"
 />
@@ -104,10 +107,12 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 <!-- # $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $ -->
 
 <!-- # Stats and Streaks: -->
+<h1 align="center" >
+
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Stats and Streaks
 </div>
-
+</h1>
 <!--Previous Stats and Streaks-->
 <!-- <p>
     <img
@@ -222,18 +227,19 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
   </div>
 </details>
 -->
+<h1 align="center" >
 
-<p style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
+<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Thank you for your visit!
-</p>
-
+</div>
+</h1>
 <div align="right">
 <!--   <a href="#top"
     ><img
       src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo&hide_border=true&hide_title=true"
       alt="back to top"
   /></a> -->
-  
+  <br />
   <a href="#top"
     ><img
       src="https://img.shields.io/badge/Back_To_Top-blueviolet?style=for-the-badge"
