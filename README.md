@@ -67,7 +67,6 @@
 <!-- $\mathfrak{{\color{#9f4bff}Connect \space \color{#ffffff} with \space \color{#9f4bff} me:}}\ $ -->
 
 <!-- # Connect with me: -->
-<br>
 <h1 align="center" >
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Connect With Me
