@@ -76,9 +76,18 @@
 
 <!-- $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aashra-pradhan-96b8b4247/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.linkedin.com/in/aashra-pradhan-96b8b4247/" target="blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/aashra-pradhan-96b8b4247/" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/aashra-pradhan-96b8b4247/" target="blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
