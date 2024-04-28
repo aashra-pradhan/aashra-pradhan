@@ -52,7 +52,7 @@
 </div>
 </h1> -->
 <!-- <br/> -->
-
+<br>
 <img
   src="https://komarev.com/ghpvc/?username=aashra-pradhan&label=Profile%20views&color=7E3ACE&style=for-the-badge"
   alt="Profile Views"
@@ -67,6 +67,7 @@
 <!-- $\mathfrak{{\color{#9f4bff}Connect \space \color{#ffffff} with \space \color{#9f4bff} me:}}\ $ -->
 
 <!-- # Connect with me: -->
+<br>
 <h1 align="center" >
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Connect With Me
