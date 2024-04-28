@@ -74,14 +74,11 @@
 </h1>
 <!-- $${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
 
-$${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
+<!-- $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ --> -->
 
 <p align="left">
-  <a href="https://linkedin.com/in/purna-shrestha-0310ps" target="blank">
+  <a href="https://www.linkedin.com/in/aashra-pradhan-96b8b4247/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://codepen.io/purnaaa" target="blank">
-    <img src="https://skillicons.dev/icons?i=codepen" />
   </a>
 </p>
 
