@@ -15,7 +15,7 @@
 <div id="top"></div>
 
 <h1 align="center">
-<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; text-align: center;">
+<div style="font-family: Roboto Slab; color: blue; font-size: 30px; font-weight:500 text-align: center;">
     Aashra Pradhan
 </div>
   <br/>
