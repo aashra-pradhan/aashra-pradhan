@@ -46,20 +46,20 @@
     />
   </div>
 </h1>
-<h1 align="center" >
+<!-- <h1 align="center" >
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Coding
 </div>
-</h1>
-<br/>
+</h1> -->
+<!-- <br/> -->
 
 <img
   src="https://komarev.com/ghpvc/?username=aashra-pradhan&label=Profile%20views&color=7E3ACE&style=for-the-badge"
   alt="Profile Views"
 />
 
-- 👨🏿‍💻All of my projects are available at [www.github.com/aashra-pradhan](www.github.com/aashra-pradhan)
-- Portfolio at [www.aashrapradhan.com.np](www.aashrapradhan.com.np)
+- 👨🏿‍💻 All of my projects are available at [www.github.com/aashra-pradhan](www.github.com/aashra-pradhan)
+- 💼 Portfolio at [www.aashrapradhan.com.np](www.aashrapradhan.com.np)
 - 📫 How to reach me **aashrapradhan68@gmail.com**
 
 <!-- # $\mathfrak{{\color{#9f4bff}Connect\ with\ me:}}\ $ -->
