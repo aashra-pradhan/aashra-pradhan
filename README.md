@@ -15,10 +15,9 @@
 <div id="top"></div>
 
 <h1 align="center">
-  <img
-      src="https://readme-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=450&lines=Aashra+Pradhan;"
-      alt="Aashra Pradhan"
-  />
+<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; text-align: center;">
+    Aashra Pradhan
+</div>
   <br/>
   <div>
       <!-- <img
