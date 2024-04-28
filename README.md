@@ -14,7 +14,7 @@
 
 <div id="top"></div>
 
-<h1 align="center" style="color:  #9f4bff;">
+<h1 align="center" >
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Aashra Pradhan
 </div>
@@ -46,12 +46,10 @@
     />
   </div>
 </h1>
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"
-/>
+<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
+    Coding
+</div>
+
 <br/>
 
 <img
@@ -69,7 +67,9 @@
 
 <!-- # Connect with me: -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=260&lines=Connect+With+Me+:" alt="Connect with me:"/>
+<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
+    Connect With Me
+</div>
 
 <!-- $${\color{#9f4bff}Connect \space \color{#ffffff}With \space \color{#9f4bff}Me}$$
 
@@ -93,7 +93,9 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 <!-- # $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
 <!-- # Languages and Tools: -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=315&lines=Languages+And+Tools+:" alt="Languages And Tools:"/>
+<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
+    Languages And Tools
+</div>
 
 <img
   src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,tailwind,js,react,nodejs,expressjs,mongodb,php,mysql,c,java,figma"
@@ -102,7 +104,9 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 <!-- # $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $ -->
 
 <!-- # Stats and Streaks: -->
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=9f4bff&size=30&center=true&vCenter=true&width=270&lines=Stats+And+Streaks+:" alt="Stats And Streaks:"/>
+<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
+    Stats and Streaks
+</div>
 
 <!--Previous Stats and Streaks-->
 <!-- <p>
@@ -219,11 +223,8 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 </details>
 -->
 
-<div align="center">
-    <img
-      alt="Thanks for your visit"
-      src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=9f4bff&center=true&vCenter=true&width=635&lines=Thanks+for+your+visit!;Let's+create+something+amazing+together+!;"
-    />
+<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
+    Thank you for your visit!
 </div>
 
 <div align="right">
