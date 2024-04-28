@@ -223,9 +223,9 @@ $${\color{#9f4bff}CONNECT\ WITH\ ME :}$$ -->
 </details>
 -->
 
-<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
+<h1 style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Thank you for your visit!
-</div>
+</h1>
 
 <div align="right">
 <!--   <a href="#top"
