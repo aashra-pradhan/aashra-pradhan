@@ -16,7 +16,7 @@
 
 <h1 align="center" >
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
-    Aashra Pradhan : Fullstack Development
+    Aashra Pradhan
 </div>
   <br/>
   <div>
