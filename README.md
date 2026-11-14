@@ -22,11 +22,13 @@
 <h2 align="center">Languages, Frameworks & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,python,c,java,php,mysql,figma,html,css,bootstrap,tailwind,js,mongodb,express,react,nodejs,postman,docker" height="48" alt="Languages, Frameworks and Tools" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="48" alt="Snowflake" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/dbt.svg" height="48" alt="dbt" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="48" alt="Databricks" />
+  <img src="https://skillicons.dev/icons?i=git,github,python,c,java,php,mysql,figma,html,css,bootstrap,tailwind,js,mongodb,express,react,nodejs,postman,docker" alt="Languages and Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/snowflake" width="45" alt="Snowflake" />
+    
+  <!-- <img src="https://cdn.simpleicons.org/dbt" width="45" alt="dbt" /> -->
+    
+  <img src="https://cdn.simpleicons.org/databricks" width="45" alt="Databricks" />
 </p>
