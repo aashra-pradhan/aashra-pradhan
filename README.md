@@ -19,11 +19,11 @@
     Aashra Pradhan
 </div>
   <br/>
-  <div>
-      <!-- <img
+  <!-- <div>
+      <img
         alt="Link to my GitHub"
         src="https://img.shields.io/github/followers/aashra-pradhan?style=for-the-badge&labelColor=7E3ACE&color=000000"
-      /> -->
+      />
     <img
         alt="github repos"
         src="https://badges.strrl.dev/repos/aashra-pradhan?color=000000&style=for-the-badge&labelColor=7E3ACE"
@@ -45,7 +45,7 @@
         src="https://badges.strrl.dev/commits/all/aashra-pradhan?color=000000&style=for-the-badge&labelColor=7E3ACE"
     />
   </div>
-</h1>
+</h1> -->
 <!-- <h1 align="center" >
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Coding
@@ -98,25 +98,27 @@
 <!-- # $\mathfrak{{\color{#9f4bff}Languages\ and\ Tools:}}\ $ -->
 
 <!-- # Languages and Tools: -->
-<h1 align="center" >
+<h2 align="center">Languages, Frameworks & Tools</h2>
 
-<div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
-    Languages And Tools
-</div>
-</h1>
-<img
-  src="https://skillicons.dev/icons?i=git,github,c,java,php,mysql,figma,html,css,bootstrap,tailwind,js,mongodb,expressjs,react,nodejs,postman"
-/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,python,c,java,php,mysql,figma,html,css,bootstrap,tailwind,js,mongodb,express,react,nodejs,postman,docker" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/snowflake" width="45" alt="Snowflake" />
+  <img src="https://cdn.simpleicons.org/dbt" width="45" alt="dbt" />
+  <img src="https://cdn.simpleicons.org/databricks" width="45" alt="Databricks" />
+</p>
 
 <!-- # $\mathfrak{{\color{#9f4bff}Stats\ and\ Streaks:}}\ $ -->
 
 <!-- # Stats and Streaks: -->
-<h1 align="center" >
+<!-- <h1 align="center" >
 
 <div style="font-family: Roboto Slab; color: #9f4bff; font-size: 30px; font-weight:800 text-align: center;">
     Stats and Streaks
 </div>
-</h1>
+</h1> -->
 <!--Previous Stats and Streaks-->
 <!-- <p>
     <img
