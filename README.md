@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,python,c,java,php,mysql,figma,html,css,bootstrap,tailwind,js,mongodb,express,react,nodejs,postman,docker" alt="Languages and Technologies" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://cdn.simpleicons.org/snowflake" width="45" alt="Snowflake" />
     
   <!-- <img src="https://cdn.simpleicons.org/dbt" width="45" alt="dbt" /> -->
